@@ -77,7 +77,7 @@ A motivated QA Engineer with solid software testing knowledge and attention to d
 
 ---
 
-### Test Artifacts:
+### Testing Artefacts:
 <ul>
 <li><a href="https://github.com/darimatveeva/theory">Testing theory</a></li>
 <li><a href="https://github.com/darimatveeva/design">Test design techniques</a></li>
