@@ -4,7 +4,12 @@
 
 ### 👨‍💻 About me:
 
-A motivated QA Engineer with solid software testing knowledge and attention to detail. Skilled in using tools like Jira for project management, Postman for API testing, and Android Studio for mobile testing. Familiar with DevTools for debugging and Charles Proxy for network analysis. Gained valuable practical experience through a high-quality educational project during the QA Junior+ course. 
+A motivated QA Engineer with solid software testing knowledge and attention to detail. Skilled in using tools like Jira for project management, Postman for API testing, and Android Studio for mobile testing. Familiar with DevTools for debugging and Charles Proxy for network analysis. I have gained valuable practical experience through a high-quality educational project during the QA Junior+ course. 
+
+---
+
+### CV
+You can find my CV <a href="https://github.com/darimatveeva/CV/blob/main/Darya_Matveeva%20Resume.pdf">here</a>
 
 ---
 
